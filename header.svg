@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1300" height="250" viewBox="0 0 1300 250" fill="none">
+  <defs>
+    <!-- Saturated Vibrant Gradient for Name -->
+    <linearGradient id="text_gradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#5E81AC">
+        <animate attributeName="stop-color" values="#5E81AC;#81A1C1;#B48EAD;#A3BE8C;#5E81AC" dur="8s" repeatCount="indefinite" />
+      </stop>
+      <stop offset="100%" stop-color="#88C0D0">
+        <animate attributeName="stop-color" values="#88C0D0;#5E81AC;#81A1C1;#B48EAD;#88C0D0" dur="8s" repeatCount="indefinite" />
+      </stop>
+    </linearGradient>
+
+    <!-- Deep Shadow Filter for Visibility -->
+    <filter id="text_pop" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="4" stdDeviation="3" flood-color="#000000" flood-opacity="0.8" />
+    </filter>
+
+    <!-- Deep Nord Background Gradient -->
+    <linearGradient id="bg_gradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#24292e" />
+      <stop offset="100%" stop-color="#14171a" />
+    </linearGradient>
+
+    <style>
+      .name {
+        font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+        font-size: 65px;
+        font-weight: 900;
+        text-transform: uppercase;
+        letter-spacing: 7px;
+        filter: url(#text_pop);
+      }
+      .subtitle {
+        font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+        font-size: 19px;
+        font-weight: 800;
+        letter-spacing: 12px;
+        fill: #FFFFFF;
+        filter: url(#text_pop);
+      }
+      .capsule {
+        rx: 12;
+        ry: 12;
+      }
+    </style>
+  </defs>
+
+  <!-- Background Layer (Ultra Dark & Solid) -->
+  <rect x="50" y="25" width="1200" height="200" class="capsule" fill="url(#bg_gradient)" stroke="url(#text_gradient)" stroke-width="4" />
+  
+  <!-- Content -->
+  <text x="50%" y="115" text-anchor="middle" class="name" fill="url(#text_gradient)">
+    MUHAMMAD REHAN HUSSAIN
+  </text>
+  
+  <text x="50%" y="155" text-anchor="middle" class="subtitle">
+    SYSTEM ARCHITECT | FULL-STACK ENGINEER
+  </text>
+
+  <!-- High-Energy Center Accent -->
+  <circle cx="650" cy="125" r="90" fill="url(#text_gradient)" opacity="0.15">
+    <animate attributeName="r" values="90; 140; 90" dur="5s" repeatCount="indefinite" />
+    <animate attributeName="opacity" values="0.1; 0.25; 0.1" dur="5s" repeatCount="indefinite" />
+  </circle>
+
+  <!-- Sharp Linear Accents -->
+  <rect x="200" y="185" width="900" height="2" fill="url(#text_gradient)" opacity="0.6">
+    <animate attributeName="opacity" values="0.3; 0.9; 0.3" dur="3s" repeatCount="indefinite" />
+  </rect>
+</svg>
