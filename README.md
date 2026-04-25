@@ -26,10 +26,10 @@
   <a href="https://upwork.com/freelancers/~013e88c83837c223fd" target="_blank">
     <img src="https://img.shields.io/badge/UPWORK-2E3440?style=for-the-badge&logo=upwork&logoColor=88C0D0" alt="Upwork" />
   </a>
-  <a href="https://my-portfolio-chi-kohl-v80c2tvuaw.vercel.app" target="_blank">
+  <a href="https://rehanhussain.dev" target="_blank">
     <img src="https://img.shields.io/badge/PORTFOLIO-2E3440?style=for-the-badge&logo=globe&logoColor=88C0D0" alt="Portfolio" />
   </a>
-  <a href="mailto:rehan@example.com" target="_blank">
+  <a href="mailto:rehancodeofficial@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/EMAIL-2E3440?style=for-the-badge&logo=maildotru&logoColor=88C0D0" alt="Email" />
   </a>
 </div>
@@ -47,11 +47,11 @@
   <tr style="border: none;">
     <td width="60%" style="border: none;">
       <h3 style="color: #88C0D0;"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer.png" alt="Hammer" width="30" align="center" /> The Mind Behind The Code</h3>
-      <p style="color: #D8DEE9;">I'm a <b style="color: #EBCB8B;">Backend-Focused Full Stack Developer</b> who blends clean engineering practices with a strong sense of structure, efficiency, and problem-solving. Whether it’s developing complex backend architectures, designing REST APIs, or deploying CI/CD pipelines, I bring a complete engineering perspective focused on performance.</p>
+      <p style="color: #D8DEE9;">I'm a <b style="color: #EBCB8B;">Full Stack Developer & Creative Software Engineer</b> who blends clean engineering practices with a strong sense of structure, efficiency, and problem-solving. Whether it’s developing real-time features with WebSockets, integrating AI capabilities, or architecting complete full-stack platforms, I bring a complete engineering perspective focused on performance and scale.</p>
       <ul style="color: #D8DEE9;">
         <li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" alt="High Voltage" width="20" align="center" /> <b style="color: #88C0D0;">Core Philosophy:</b> Build with precision. Architect for scalability. Deliver with excellence.</li>
-        <li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gem%20Stone.png" alt="Gem Stone" width="20" align="center" /> <b style="color: #88C0D0;">Backend Mastery:</b> Java (Springboot, JavaFX), Node.js (Express), CI/CD.</li>
-        <li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" alt="Light Bulb" width="20" align="center" /> <b style="color: #88C0D0;">Frontend Stacks:</b> MERN Stack scaling interactive cross-platform solutions.</li>
+        <li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gem%20Stone.png" alt="Gem Stone" width="20" align="center" /> <b style="color: #88C0D0;">Backend Mastery:</b> Node.js, Express.js, PostgreSQL, MongoDB, Prisma, Supabase, Socket.io.</li>
+        <li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" alt="Light Bulb" width="20" align="center" /> <b style="color: #88C0D0;">Frontend Stacks:</b> HTML5, CSS3, JavaScript, TypeScript, React, Next.js, Tailwind CSS.</li>
         <li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="20" align="center" /> <b style="color: #88C0D0;">Education:</b> BS Software Engineering, Iqra University (Karachi).</li>
       </ul>
     </td>
