@@ -79,12 +79,8 @@
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Building%20Construction.png" alt="Building Construction" width="35" align="center" /> DEPLOYED ECOSYSTEMS (Featured Repos)
 
 <div align="center">
-  <a href="https://github.com/rehancodeofficial/Medify-WebApp"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rehancodeofficial&repo=Medify-WebApp&theme=nord&border_radius=4" width="49%" /></a>
-  <a href="https://github.com/rehancodeofficial/transpopilot22"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rehancodeofficial&repo=transpopilot22&theme=nord&border_radius=4" width="49%" /></a>
-</div>
-<div align="center">
-  <a href="https://github.com/rehancodeofficial/RideShare"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rehancodeofficial&repo=RideShare&theme=nord&border_radius=4" width="49%" /></a>
-  <a href="https://github.com/rehancodeofficial/ClinicCore"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rehancodeofficial&repo=ClinicCore&theme=nord&border_radius=4" width="49%" /></a>
+  <a href="https://github.com/rehancodeofficial/NorthernX"><img src="https://github-readme-stats-eight.vercel.app/api/pin/?username=rehancodeofficial&repo=NorthernX&theme=nord&border_radius=4" width="49%" /></a>
+  <a href="https://github.com/rehancodeofficial/VertexEMS"><img src="https://github-readme-stats-eight.vercel.app/api/pin/?username=rehancodeofficial&repo=VertexEMS&theme=nord&border_radius=4" width="49%" /></a>
 </div>
 
 <br/>
@@ -94,8 +90,8 @@
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="35" align="center" /> SYSTEM TELEMETRY (GitHub Pulse)
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rehancodeofficial&show_icons=true&theme=nord&border_radius=4" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rehancodeofficial&layout=compact&theme=nord&border_radius=4" width="49%" />
+  <img src="https://github-readme-stats-eight.vercel.app/api?username=rehancodeofficial&show_icons=true&theme=nord&border_radius=4" width="49%" />
+  <img src="https://github-readme-stats-eight.vercel.app/api/top-langs/?username=rehancodeofficial&layout=compact&theme=nord&border_radius=4" width="49%" />
 </div>
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rehancodeofficial&theme=nord&borderRadius=4" width="98.5%" />
