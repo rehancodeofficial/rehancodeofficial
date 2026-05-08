@@ -66,10 +66,9 @@
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Arsenal" width="35" align="center" /> CORE ENGINEERING ARSENAL
 
 <div align="center">
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=ts,js,python,java,cpp,go,rust&theme=dark" alt="Languages" /></a><br><br>
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,django,spring&theme=dark" alt="Frameworks" /></a><br><br>
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,linux,git,bash,vim&theme=dark" alt="Tools & Infra" /></a><br><br>
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=postgres,redis,mongodb,mysql,sqlite&theme=dark" alt="Databases" /></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind&theme=dark" alt="Frontend Stacks" /></a><br><br>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb,prisma,supabase&theme=dark" alt="Backend & Databases" /></a><br><br>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=docker,git,github,vercel&theme=dark" alt="Tools & Infra" /></a>
 </div>
 
 <br/>
