@@ -81,6 +81,10 @@
   <a href="https://github.com/rehancodeofficial/NorthernX"><img src="https://github-readme-stats-eight.vercel.app/api/pin/?username=rehancodeofficial&repo=NorthernX&theme=nord&border_radius=4" width="49%" /></a>
   <a href="https://github.com/rehancodeofficial/VertexEMS"><img src="https://github-readme-stats-eight.vercel.app/api/pin/?username=rehancodeofficial&repo=VertexEMS&theme=nord&border_radius=4" width="49%" /></a>
 </div>
+<div align="center">
+  <a href="https://clientpilotai.rehanhussain.dev/" target="_blank"><img src="./clientpilotai-card.svg" width="49%" /></a>
+  <a href="https://bitedash.rehanhussain.dev/" target="_blank"><img src="./bitedash-card.svg" width="49%" /></a>
+</div>
 
 <br/>
 
