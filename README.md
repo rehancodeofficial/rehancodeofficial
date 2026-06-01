@@ -50,7 +50,7 @@
       <p style="color: #D8DEE9;">I'm a <b style="color: #EBCB8B;">Full Stack Developer & Creative Software Engineer</b> who blends clean engineering practices with a strong sense of structure, efficiency, and problem-solving. Whether it’s developing real-time features with WebSockets, integrating AI capabilities, or architecting complete full-stack platforms, I bring a complete engineering perspective focused on performance and scale.</p>
       <ul style="color: #D8DEE9;">
         <li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" alt="High Voltage" width="20" align="center" /> <b style="color: #88C0D0;">Core Philosophy:</b> Build with precision. Architect for scalability. Deliver with excellence.</li>
-        <li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gem%20Stone.png" alt="Gem Stone" width="20" align="center" /> <b style="color: #88C0D0;">Backend Mastery:</b> Node.js, Express.js, PostgreSQL, MongoDB, Prisma, Supabase, Socket.io.</li>
+        <li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gem%20Stone.png" alt="Gem Stone" width="20" align="center" /> <b style="color: #88C0D0;">Backend Mastery:</b> Node.js, Express.js, PostgreSQL, MongoDB, Prisma, Supabase, Firebase, Socket.io.</li>
         <li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" alt="Light Bulb" width="20" align="center" /> <b style="color: #88C0D0;">Frontend Stacks:</b> HTML5, CSS3, JavaScript, TypeScript, React, Next.js, Tailwind CSS.</li>
         <li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="20" align="center" /> <b style="color: #88C0D0;">Education:</b> BS Software Engineering, Iqra University (Karachi).</li>
       </ul>
@@ -67,7 +67,7 @@
 
 <div align="center">
   <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind&theme=dark" alt="Frontend Stacks" /></a><br><br>
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb,prisma,supabase&theme=dark" alt="Backend & Databases" /></a><br><br>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb,prisma,supabase,firebase&theme=dark" alt="Backend & Databases" /></a><br><br>
   <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=docker,git,github,vercel&theme=dark" alt="Tools & Infra" /></a>
 </div>
 
