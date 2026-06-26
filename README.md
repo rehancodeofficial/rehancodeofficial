@@ -89,8 +89,8 @@
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="35" align="center" /> SYSTEM TELEMETRY (GitHub Pulse)
 
 <div align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=rehancodeofficial&show_icons=true&theme=nord&border_radius=4" width="49%" />
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=rehancodeofficial&layout=compact&theme=nord&border_radius=4" width="49%" />
+  <img src="https://github-readme-stats.shion.dev/api?username=rehancodeofficial&show_icons=true&theme=nord&border_radius=4" height="195" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=rehancodeofficial&layout=compact&theme=nord&border_radius=4" height="195" />
 </div>
 
 <br/>
