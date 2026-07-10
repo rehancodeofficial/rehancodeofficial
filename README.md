@@ -78,8 +78,8 @@
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Building%20Construction.png" alt="Building Construction" width="35" align="center" /> DEPLOYED ECOSYSTEMS (Featured Repos)
 
 <div align="center">
-  <a href="https://clientpilotai.rehanhussain.dev/" target="_blank"><img src="./clientpilotai-card.svg" width="49%" /></a>
-  <a href="https://bitedash.rehanhussain.dev/" target="_blank"><img src="./bitedash-card.svg" width="49%" /></a>
+  <a href="https://clientpilotai.rehanhussain.dev/" target="_blank"><img src="https://raw.githubusercontent.com/rehancodeofficial/rehancodeofficial/main/clientpilotai-card.svg" width="49%" /></a>
+  <a href="https://bitedash.rehanhussain.dev/" target="_blank"><img src="https://raw.githubusercontent.com/rehancodeofficial/rehancodeofficial/main/bitedash-card.svg" width="49%" /></a>
 </div>
 
 <br/>
@@ -101,9 +101,9 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rehancodeofficial/rehancodeofficial/output/github-contribution-grid-snake-dark.svg?v=1">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rehancodeofficial/rehancodeofficial/output/github-contribution-grid-snake.svg?v=1">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/rehancodeofficial/rehancodeofficial/output/github-contribution-grid-snake-dark.svg?v=1" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rehancodeofficial/rehancodeofficial/output/github-contribution-grid-snake-dark.svg?v=2">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rehancodeofficial/rehancodeofficial/output/github-contribution-grid-snake.svg?v=2">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/rehancodeofficial/rehancodeofficial/output/github-contribution-grid-snake-dark.svg?v=2" width="100%">
   </picture>
 </div>
 
