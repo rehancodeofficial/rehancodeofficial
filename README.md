@@ -2,7 +2,7 @@
 
   <!-- COMMAND CENTER HEADER -->
   <br/>
-  <img src="./header.svg" alt="Muhammad Rehan Hussain Header" width="1100" />
+  <img src="https://raw.githubusercontent.com/rehancodeofficial/rehancodeofficial/main/header.svg" alt="Muhammad Rehan Hussain Header" width="1100" />
 
   <br/>
 
@@ -19,12 +19,6 @@
   </a>
   <a href="https://wa.me/923148100272" target="_blank">
     <img src="https://img.shields.io/badge/WHATSAPP-2E3440?style=for-the-badge&logo=whatsapp&logoColor=88C0D0" alt="WhatsApp" />
-  </a>
-  <a href="https://www.fiverr.com/rehancodeoffici" target="_blank">
-    <img src="https://img.shields.io/badge/FIVERR-2E3440?style=for-the-badge&logo=fiverr&logoColor=88C0D0" alt="Fiverr" />
-  </a>
-  <a href="https://upwork.com/freelancers/~013e88c83837c223fd" target="_blank">
-    <img src="https://img.shields.io/badge/UPWORK-2E3440?style=for-the-badge&logo=upwork&logoColor=88C0D0" alt="Upwork" />
   </a>
   <a href="https://rehanhussain.dev" target="_blank">
     <img src="https://img.shields.io/badge/PORTFOLIO-2E3440?style=for-the-badge&logo=globe&logoColor=88C0D0" alt="Portfolio" />
@@ -56,7 +50,7 @@
       </ul>
     </td>
     <td width="40%" align="center" style="border: none;">
-      <img src="./mygif.gif" width="300" style="border-radius: 4px; border: 2px solid #4C566A;" alt="3D Man Cartoon GIF using MacBook and Typing" />
+      <img src="https://raw.githubusercontent.com/rehancodeofficial/rehancodeofficial/main/mygif.gif" width="300" style="border-radius: 4px; border: 2px solid #4C566A;" alt="3D Man Cartoon GIF using MacBook and Typing" />
     </td>
   </tr>
 </table>
