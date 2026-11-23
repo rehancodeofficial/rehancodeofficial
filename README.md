@@ -8,11 +8,11 @@
 
   <br/>
 
-  <!-- DYNAMIC TYPING ROLE SWITCHER (Adapts with Portfolio Orange Theme) -->
+  <!-- DYNAMIC TYPING ROLE SWITCHER (Portfolio Aligned) -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=22&pause=1000&color=E2652C;F2814F;F5F3F0&center=true&vCenter=true&width=800&lines=Full+Stack+Developer+%26+Software+Engineer;Java+%2B+Spring+Boot+%7C+Node.js+%7C+React;n8n+Automation+%26+Autonomous+AI+Agents;Crafting+Fast,+Scalable+Digital+Products.">
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=22&pause=1000&color=E2652C;EA580C;14110F&center=true&vCenter=true&width=800&lines=Full+Stack+Developer+%26+Software+Engineer;Java+%2B+Spring+Boot+%7C+Node.js+%7C+React;n8n+Automation+%26+Autonomous+AI+Agents;Crafting+Fast,+Scalable+Digital+Products.">
-    <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=22&pause=1000&color=E2652C;F2814F;F5F3F0&center=true&vCenter=true&width=800&lines=Full+Stack+Developer+%26+Software+Engineer;Java+%2B+Spring+Boot+%7C+Node.js+%7C+React;n8n+Automation+%26+Autonomous+AI+Agents;Crafting+Fast,+Scalable+Digital+Products." alt="Typing SVG" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=22&pause=1000&color=E2652C;F2814F;F5F3F0&center=true&vCenter=true&width=800&lines=Full+Stack+Developer+%26+Software+Engineer;Node.js+%7C+TypeScript+%7C+React+%7C+Next.js;n8n+Automation+%26+Autonomous+AI+Agents;Custom+Web+Apps,+Dashboards+%26+E-Commerce.">
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=22&pause=1000&color=E2652C;EA580C;14110F&center=true&vCenter=true&width=800&lines=Full+Stack+Developer+%26+Software+Engineer;Node.js+%7C+TypeScript+%7C+React+%7C+Next.js;n8n+Automation+%26+Autonomous+AI+Agents;Custom+Web+Apps,+Dashboards+%26+E-Commerce.">
+    <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=22&pause=1000&color=E2652C;F2814F;F5F3F0&center=true&vCenter=true&width=800&lines=Full+Stack+Developer+%26+Software+Engineer;Node.js+%7C+TypeScript+%7C+React+%7C+Next.js;n8n+Automation+%26+Autonomous+AI+Agents;Custom+Web+Apps,+Dashboards+%26+E-Commerce." alt="Typing SVG" />
   </picture>
 
 </div>
@@ -52,12 +52,12 @@
   <tr style="border: none;">
     <td width="60%" style="border: none; vertical-align: top;">
       <h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer.png" alt="Hammer" width="30" align="center" /> The Mind Behind The Code</h3>
-      <p>I'm <b>Muhammad Rehan Hussain</b>, a <b>Full Stack Developer & Co-Founder at Code Vertex Solutions</b>. I build high-converting websites, web and mobile applications, business dashboards, and autonomous n8n workflows — anchored around a resilient backend core in <b>Java, Spring Boot, and Node.js</b>.</p>
+      <p>I'm <b>Muhammad Rehan Hussain</b>, a <b>Full Stack Developer & Co-Founder at Code Vertex Solutions</b>. I build WordPress & Shopify sites, custom web apps, real-time dashboards, autonomous n8n workflows, and AI agents — with a high-performance backend foundation in <b>Node.js, TypeScript, PostgreSQL, and modern web architectures</b>.</p>
       <ul>
         <li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" alt="High Voltage" width="20" align="center" /> <b>Core Philosophy:</b> Build with precision. Architect for scalability. Deliver with excellence.</li>
-        <li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gem%20Stone.png" alt="Gem Stone" width="20" align="center" /> <b>Backend Core:</b> Java, Spring Boot, Spring Security, Node.js, Express.js, REST APIs, WebSockets.</li>
-        <li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" alt="Light Bulb" width="20" align="center" /> <b>Frontend & Mobile:</b> React, Next.js, TypeScript, JavaScript, Tailwind CSS, HTML5/CSS3.</li>
-        <li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" alt="Gear" width="20" align="center" /> <b>Automation & AI:</b> n8n Automation Workflows, OpenAI API, WhatsApp Automations, Custom LLM Agents.</li>
+        <li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gem%20Stone.png" alt="Gem Stone" width="20" align="center" /> <b>Backend & Databases:</b> Node.js, Express.js, TypeScript, PostgreSQL, MongoDB, Prisma, Supabase, Redis, REST APIs, WebSockets.</li>
+        <li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" alt="Light Bulb" width="20" align="center" /> <b>Frontend & Web Apps:</b> React, Next.js, TypeScript, JavaScript, Tailwind CSS, HTML5, CSS3, Vite.</li>
+        <li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" alt="Gear" width="20" align="center" /> <b>Automation, AI & CMS:</b> n8n Automation Workflows, OpenAI API, Custom AI Agents, Shopify (Liquid / OS 2.0), WordPress, WooCommerce.</li>
         <li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="20" align="center" /> <b>Education:</b> BS Software Engineering — Iqra University (Karachi).</li>
       </ul>
     </td>
@@ -73,15 +73,15 @@
 
 ```text
 ┌── [Jul 2026 – Present] Co-Founder & Full Stack Developer @ Code Vertex Solutions
-│   └── Backend services & REST APIs in Java/Spring Boot & Node.js, data modeling with PostgreSQL & MongoDB, 
+│   └── Building backend services & REST APIs with Node.js and Express.js, data modeling with PostgreSQL & MongoDB, 
 │       third-party API integrations, deployment, and end-to-end software delivery with a 4-member dev team.
 │
 ├── [Jan 2026 – Present] Full Stack Developer @ NorthernX Technologies
-│   └── Full-stack development across client products — React & TypeScript frontends connected to Java/Spring Boot 
-│       & Node.js microservices, PostgreSQL data modeling, REST API design, and production deployment.
+│   └── Full-stack development across client products — React & TypeScript frontends connected to Node.js 
+│       microservices, PostgreSQL data modeling, REST API design, and production deployment.
 │
 ├── [Oct 2024 – Jan 2026] Full Stack Developer @ MT Nexus Global
-│   └── REST APIs and database development using Java/Spring Boot and Node.js. Debugging enterprise applications, 
+│   └── REST APIs and database development using Node.js, TypeScript, and modern frontends. Debugging production applications, 
 │       feature scoping, and architecture for healthcare & logistics platforms (CureVirtual 2.0, TranspoPilot AI).
 │
 └── [Jan 2024 – Jun 2024] Web Developer Intern @ Monami Technologies
@@ -96,25 +96,36 @@
 <div align="center">
   <p><b>Frontend & User Interfaces</b></p>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,redux&theme=dark">
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,redux&theme=light">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,redux&theme=dark" alt="Frontend Stacks" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,redux,vite&theme=dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,redux,vite&theme=light">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,redux,vite&theme=dark" alt="Frontend Stacks" />
   </picture>
   <br><br>
   
   <p><b>Backend, Databases & Realtime Systems</b></p>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=java,spring,nodejs,express,postgres,mongodb,redis,prisma,supabase,firebase&theme=dark">
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=java,spring,nodejs,express,postgres,mongodb,redis,prisma,supabase,firebase&theme=light">
-    <img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,postgres,mongodb,redis,prisma,supabase,firebase&theme=dark" alt="Backend & Databases" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb,redis,prisma,supabase,firebase&theme=dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb,redis,prisma,supabase,firebase&theme=light">
+    <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb,redis,prisma,supabase,firebase&theme=dark" alt="Backend & Databases" />
   </picture>
   <br><br>
   
-  <p><b>Automation, Platforms & Cloud DevOps</b></p>
+  <p><b>CMS, E-Commerce & Workflow Automation</b></p>
+  <div>
+    <img src="https://img.shields.io/badge/Shopify-95BF47?style=for-the-badge&logo=shopify&logoColor=white" alt="Shopify" />
+    <img src="https://img.shields.io/badge/Liquid-000000?style=for-the-badge&logo=shopify&logoColor=95BF47" alt="Liquid" />
+    <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
+    <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
+    <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress" />
+    <img src="https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white" alt="WooCommerce" />
+  </div>
+  <br>
+
+  <p><b>DevOps, Cloud & Tooling</b></p>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=wordpress,docker,git,github,postman,vercel,npm&theme=dark">
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=wordpress,docker,git,github,postman,vercel,npm&theme=light">
-    <img src="https://skillicons.dev/icons?i=wordpress,docker,git,github,postman,vercel,npm&theme=dark" alt="Tools & Infra" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=docker,git,github,postman,vercel,npm&theme=dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=docker,git,github,postman,vercel,npm&theme=light">
+    <img src="https://skillicons.dev/icons?i=docker,git,github,postman,vercel,npm&theme=dark" alt="Tools & Infra" />
   </picture>
 </div>
 
@@ -141,7 +152,7 @@
     <td width="50%" valign="top">
       <h4><a href="https://pulsehr.rehanhussain.dev/">💼 PulseHR</a></h4>
       <p><b>Enterprise HR Management System:</b> Production-ready HR suite featuring automated employee onboarding, payroll, attendance, real-time WebSocket updates, and Supabase file storage.</p>
-      <p><code>React 19</code> <code>Java</code> <code>Spring Boot</code> <code>Spring Security</code> <code>PostgreSQL</code></p>
+      <p><code>React 19</code> <code>TypeScript</code> <code>Node.js</code> <code>PostgreSQL</code> <code>Supabase Storage</code></p>
     </td>
     <td width="50%" valign="top">
       <h4>🚚 TranspoPilot AI</h4>
@@ -156,9 +167,9 @@
       <p><code>n8n</code> <code>OpenAI API</code> <code>WhatsApp API</code> <code>React</code> <code>Node.js</code> <code>PostgreSQL</code></p>
     </td>
     <td width="50%" valign="top">
-      <h4>🩺 CureVirtual 2.0</h4>
-      <p><b>Telehealth & Clinical Healthcare Portal:</b> Healthcare platform facilitating secure virtual doctor consultations, digital health records, appointments, and clinical workflows.</p>
-      <p><code>React</code> <code>TypeScript</code> <code>Java / Spring Boot</code> <code>PostgreSQL</code> <code>JWT</code></p>
+      <h4>🛍️ BookHaven & Shopify Solutions</h4>
+      <p><b>Shopify OS 2.0 & E-Commerce Storefront:</b> Bespoke Shopify storefront with Liquid templates, structured metafields, custom filters, and AJAX cart drawer.</p>
+      <p><code>Shopify Liquid</code> <code>OS 2.0</code> <code>Cart API</code> <code>Metafields</code> <code>JavaScript</code></p>
     </td>
   </tr>
 </table>
@@ -203,9 +214,9 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rehancodeofficial/rehancodeofficial/output/github-contribution-grid-snake-dark.svg?v=4">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rehancodeofficial/rehancodeofficial/output/github-contribution-grid-snake.svg?v=4">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/rehancodeofficial/rehancodeofficial/output/github-contribution-grid-snake-dark.svg?v=4" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rehancodeofficial/rehancodeofficial/main/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rehancodeofficial/rehancodeofficial/main/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/rehancodeofficial/rehancodeofficial/main/github-contribution-grid-snake-dark.svg" width="100%">
   </picture>
 </div>
 
@@ -243,6 +254,10 @@
 <div align="center">
   <table style="border-collapse: collapse; width: 65%;">
     <tr>
+      <td style="padding: 12px;"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" alt="Commits" width="25" /> <b>Total GitHub Commits:</b></td>
+      <td style="padding: 12px;" align="right"><code>585+</code> COMMITS</td>
+    </tr>
+    <tr>
       <td style="padding: 12px;"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" alt="Experience" width="25" /> <b>Professional Experience:</b></td>
       <td style="padding: 12px;" align="right"><code>3+</code> YEARS</td>
     </tr>
@@ -264,7 +279,7 @@
     </tr>
     <tr>
       <td style="padding: 12px;"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="25" /> <b>Engineering Focus:</b></td>
-      <td style="padding: 12px;" align="right"><code>FULL-STACK + CLOUD</code></td>
+      <td style="padding: 12px;" align="right"><code>FULL-STACK + AUTOMATION</code></td>
     </tr>
     <tr>
       <td style="padding: 12px;"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" /> <b>Daily Flow State:</b></td>
@@ -283,7 +298,7 @@
       <td style="border: none;"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" alt="Automation" width="25" align="center" /> <b>n8n Autonomous Workflows & AI Agents (LLM integrations, messaging triage)</b></td>
     </tr>
     <tr style="border: none;">
-      <td style="border: none;"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="25" align="center" /> <b>Scalable Web Applications (Java / Spring Boot & Node.js backend core)</b></td>
+      <td style="border: none;"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="25" align="center" /> <b>Scalable Web Applications (Node.js & TypeScript full-stack core)</b></td>
     </tr>
     <tr style="border: none;">
       <td style="border: none;"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" align="center" /> <b>Executive Dashboards & Portals (Real-time telemetry, WebSockets, clean metrics)</b></td>
