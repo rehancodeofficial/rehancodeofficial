@@ -10,9 +10,9 @@
 
   <!-- DYNAMIC TYPING ROLE SWITCHER (Portfolio Aligned) -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=22&pause=1000&color=E2652C;F2814F;F5F3F0&center=true&vCenter=true&width=800&lines=Full+Stack+Developer+%26+Software+Engineer;Node.js+%7C+TypeScript+%7C+React+%7C+Next.js;n8n+Automation+%26+Autonomous+AI+Agents;Custom+Web+Apps,+Dashboards+%26+E-Commerce.">
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=22&pause=1000&color=E2652C;EA580C;14110F&center=true&vCenter=true&width=800&lines=Full+Stack+Developer+%26+Software+Engineer;Node.js+%7C+TypeScript+%7C+React+%7C+Next.js;n8n+Automation+%26+Autonomous+AI+Agents;Custom+Web+Apps,+Dashboards+%26+E-Commerce.">
-    <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=22&pause=1000&color=E2652C;F2814F;F5F3F0&center=true&vCenter=true&width=800&lines=Full+Stack+Developer+%26+Software+Engineer;Node.js+%7C+TypeScript+%7C+React+%7C+Next.js;n8n+Automation+%26+Autonomous+AI+Agents;Custom+Web+Apps,+Dashboards+%26+E-Commerce." alt="Typing SVG" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=22&pause=1000&color=E2652C;C2410C;9A3412&center=true&vCenter=true&width=800&lines=Full+Stack+Developer+%26+Software+Engineer;Node.js+%7C+TypeScript+%7C+React+%7C+Next.js;n8n+Automation+%26+Autonomous+AI+Agents;Custom+Web+Apps,+Dashboards+%26+E-Commerce.">
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=22&pause=1000&color=E2652C;C2410C;9A3412&center=true&vCenter=true&width=800&lines=Full+Stack+Developer+%26+Software+Engineer;Node.js+%7C+TypeScript+%7C+React+%7C+Next.js;n8n+Automation+%26+Autonomous+AI+Agents;Custom+Web+Apps,+Dashboards+%26+E-Commerce.">
+    <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=22&pause=1000&color=E2652C;C2410C;9A3412&center=true&vCenter=true&width=800&lines=Full+Stack+Developer+%26+Software+Engineer;Node.js+%7C+TypeScript+%7C+React+%7C+Next.js;n8n+Automation+%26+Autonomous+AI+Agents;Custom+Web+Apps,+Dashboards+%26+E-Commerce." alt="Typing SVG" />
   </picture>
 
 </div>
@@ -36,11 +36,7 @@
 </div>
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=20&pause=2000&color=23232A&center=true&vCenter=true&width=800&lines=━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━">
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=20&pause=2000&color=E6E2DC&center=true&vCenter=true&width=800&lines=━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━">
-    <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=20&pause=2000&color=23232A&center=true&vCenter=true&width=800&lines=━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━" alt="LineDivider" />
-  </picture>
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png" alt="---" width="100%" />
 </div>
 
 <!-- Bio Section -->
@@ -180,9 +176,9 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rehancodeofficial/rehancodeofficial/main/github-contribution-grid-snake-dark.svg?v=1795432581">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rehancodeofficial/rehancodeofficial/main/github-contribution-grid-snake.svg?v=1795432581">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/rehancodeofficial/rehancodeofficial/main/github-contribution-grid-snake-dark.svg?v=1795432581" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rehancodeofficial/rehancodeofficial/main/github-contribution-grid-snake-dark.svg?v=orange8">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rehancodeofficial/rehancodeofficial/main/github-contribution-grid-snake.svg?v=orange8">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/rehancodeofficial/rehancodeofficial/main/github-contribution-grid-snake-dark.svg?v=orange8" width="100%">
   </picture>
 </div>
 
