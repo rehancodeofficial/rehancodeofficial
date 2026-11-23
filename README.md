@@ -1,5 +1,22 @@
 <div align="center">
 
+  <!-- COMMAND CENTER HEADER -->
+  <br/>
+  <a href="https://rehanhussain.dev" target="_blank">
+    <img src="https://raw.githubusercontent.com/rehancodeofficial/rehancodeofficial/main/header.svg?v=6" alt="Muhammad Rehan Hussain Header" width="100%" />
+  </a>
+
+  <br/>
+
+  <!-- DYNAMIC TYPING ROLE SWITCHER (Portfolio Aligned) -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=22&pause=1000&color=E2652C;F2814F;F5F3F0&center=true&vCenter=true&width=800&lines=Full+Stack+Developer+%26+Software+Engineer;Node.js+%7C+TypeScript+%7C+React+%7C+Next.js;n8n+Automation+%26+Autonomous+AI+Agents;Custom+Web+Apps,+Dashboards+%26+E-Commerce.">
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=22&pause=1000&color=E2652C;EA580C;14110F&center=true&vCenter=true&width=800&lines=Full+Stack+Developer+%26+Software+Engineer;Node.js+%7C+TypeScript+%7C+React+%7C+Next.js;n8n+Automation+%26+Autonomous+AI+Agents;Custom+Web+Apps,+Dashboards+%26+E-Commerce.">
+    <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=22&pause=1000&color=E2652C;F2814F;F5F3F0&center=true&vCenter=true&width=800&lines=Full+Stack+Developer+%26+Software+Engineer;Node.js+%7C+TypeScript+%7C+React+%7C+Next.js;n8n+Automation+%26+Autonomous+AI+Agents;Custom+Web+Apps,+Dashboards+%26+E-Commerce." alt="Typing SVG" />
+  </picture>
+
+</div>
+
 <div align="center">
   <a href="https://rehanhussain.dev" target="_blank">
     <img src="https://img.shields.io/badge/PORTFOLIO-rehanhussain.dev-E2652C?style=for-the-badge&logo=globe&logoColor=white" alt="Portfolio" />
