@@ -51,7 +51,10 @@
 
 <table align="center" style="border: none; background: transparent;">
   <tr style="border: none;">
-    <td width="60%" style="border: none; vertical-align: top;">
+    <td width="38%" align="center" style="border: none; vertical-align: middle; padding-right: 25px;">
+      <img src="https://raw.githubusercontent.com/rehancodeofficial/rehancodeofficial/main/avatar.jpg" width="310" style="border-radius: 16px; border: 2px solid #E2652C;" alt="Muhammad Rehan Hussain" />
+    </td>
+    <td width="62%" style="border: none; vertical-align: top;">
       <h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer.png" alt="Hammer" width="30" align="center" /> The Mind Behind The Code</h3>
       <p>I'm <b>Muhammad Rehan Hussain</b>, a <b>Full Stack Developer & Co-Founder at Code Vertex Solutions</b>. I build WordPress & Shopify sites, custom web apps, real-time dashboards, autonomous n8n workflows, and AI agents — with a high-performance backend foundation in <b>Node.js, TypeScript, PostgreSQL, and modern web architectures</b>.</p>
       <ul>
@@ -61,9 +64,6 @@
         <li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" alt="Gear" width="20" align="center" /> <b>Automation, AI & CMS:</b> n8n Automation Workflows, OpenAI API, Custom AI Agents, Shopify (Liquid / OS 2.0), WordPress, WooCommerce.</li>
         <li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="20" align="center" /> <b>Education:</b> BS Software Engineering — Iqra University (Karachi).</li>
       </ul>
-    </td>
-    <td width="40%" align="center" style="border: none; vertical-align: middle;">
-      <img src="https://raw.githubusercontent.com/rehancodeofficial/rehancodeofficial/main/avatar.jpg" width="310" style="border-radius: 16px; border: 2px solid #E2652C;" alt="Muhammad Rehan Hussain" />
     </td>
   </tr>
 </table>
