@@ -36,7 +36,7 @@
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png" alt="---" width="100%" />
+  <img src="https://raw.githubusercontent.com/rehancodeofficial/rehancodeofficial/main/divider.svg" alt="---" width="100%" />
 </div>
 
 <!-- Bio Section -->
