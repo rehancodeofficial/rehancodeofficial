@@ -1,5 +1,22 @@
 <div align="center">
 
+  <!-- COMMAND CENTER HEADER -->
+  <br/>
+  <a href="https://rehanhussain.dev" target="_blank">
+    <img src="https://raw.githubusercontent.com/rehancodeofficial/rehancodeofficial/main/header.svg?v=7" alt="Muhammad Rehan Hussain Header" width="100%" />
+  </a>
+
+  <br/>
+
+  <!-- DYNAMIC TYPING ROLE SWITCHER (Dark Orange Palette) -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=22&pause=1000&color=E2652C;C2410C;9A3412&center=true&vCenter=true&width=800&lines=Full+Stack+Developer+%26+Software+Engineer;Node.js+%7C+TypeScript+%7C+React+%7C+Next.js;n8n+Automation+%26+Autonomous+AI+Agents;Custom+Web+Apps,+Dashboards+%26+E-Commerce.">
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=22&pause=1000&color=E2652C;C2410C;9A3412&center=true&vCenter=true&width=800&lines=Full+Stack+Developer+%26+Software+Engineer;Node.js+%7C+TypeScript+%7C+React+%7C+Next.js;n8n+Automation+%26+Autonomous+AI+Agents;Custom+Web+Apps,+Dashboards+%26+E-Commerce.">
+    <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=22&pause=1000&color=E2652C;C2410C;9A3412&center=true&vCenter=true&width=800&lines=Full+Stack+Developer+%26+Software+Engineer;Node.js+%7C+TypeScript+%7C+React+%7C+Next.js;n8n+Automation+%26+Autonomous+AI+Agents;Custom+Web+Apps,+Dashboards+%26+E-Commerce." alt="Typing SVG" />
+  </picture>
+
+</div>
+
 <div align="center">
   <a href="https://rehanhussain.dev" target="_blank">
     <img src="https://img.shields.io/badge/PORTFOLIO-rehanhussain.dev-E2652C?style=for-the-badge&logo=globe&logoColor=white" alt="Portfolio" />
@@ -19,7 +36,7 @@
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/rehancodeofficial/rehancodeofficial/main/divider.svg" alt="---" width="100%" />
+  <img src="https://raw.githubusercontent.com/rehancodeofficial/rehancodeofficial/main/divider.svg?v=4" alt="---" width="100%" />
 </div>
 
 <!-- Bio Section -->
@@ -47,9 +64,11 @@
   </tr>
 </table>
 
----
+<div align="center">
+  <img src="https://raw.githubusercontent.com/rehancodeofficial/rehancodeofficial/main/divider.svg?v=4" alt="---" width="100%" />
+</div>
 
-### PROFESSIONAL EXPERIENCE
+### 💼 PROFESSIONAL EXPERIENCE
 
 ```text
 ┌── [Jul 2026 – Present] Co-Founder & Full Stack Developer @ Code Vertex Solutions
@@ -69,15 +88,271 @@
         PostgreSQL, and MongoDB.
 ```
 
----
+<div align="center">
+  <img src="https://raw.githubusercontent.com/rehancodeofficial/rehancodeofficial/main/divider.svg?v=4" alt="---" width="100%" />
+</div>
 
-### CORE ENGINEERING ARSENAL
+### 🛠️ CORE ENGINEERING ARSENAL
 
 <div align="center">
+
   <p><b>Frontend & User Interfaces</b></p>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,redux,vite&theme=dark">
     <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,redux,vite&theme=light">
     <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,redux,vite&theme=dark" alt="Frontend Stacks" />
   </picture>
-  <br><br>
+  <br/><br/>
+
+  <p><b>Backend & Server Runtime</b></p>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nodejs,express,ts,postman&theme=dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=nodejs,express,ts,postman&theme=light">
+    <img src="https://skillicons.dev/icons?i=nodejs,express,ts,postman&theme=dark" alt="Backend Stacks" />
+  </picture>
+  <br/><br/>
+
+  <p><b>Databases, ORM & Cloud Architecture</b></p>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=postgres,mongodb,redis,prisma,supabase,firebase&theme=dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=postgres,mongodb,redis,prisma,supabase,firebase&theme=light">
+    <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,prisma,supabase,firebase&theme=dark" alt="Database Stacks" />
+  </picture>
+  <br/><br/>
+
+  <p><b>Automation, AI & CMS / E-Commerce</b></p>
+  <p>
+    <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
+    <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI API" />
+    <img src="https://img.shields.io/badge/Shopify_OS_2.0-7AB55C?style=for-the-badge&logo=shopify&logoColor=white" alt="Shopify OS 2.0" />
+    <img src="https://img.shields.io/badge/Shopify_Liquid-95BF47?style=for-the-badge&logo=shopify&logoColor=white" alt="Liquid" />
+    <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress" />
+    <img src="https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white" alt="WooCommerce" />
+  </p>
+  <br/>
+
+  <p><b>DevOps, Version Control & Tooling</b></p>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=docker,git,github,linux,vercel&theme=dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=docker,git,github,linux,vercel&theme=light">
+    <img src="https://skillicons.dev/icons?i=docker,git,github,linux,vercel&theme=dark" alt="DevOps Stacks" />
+  </picture>
+
+</div>
+
+<div align="center">
+  <br/>
+  <img src="https://raw.githubusercontent.com/rehancodeofficial/rehancodeofficial/main/divider.svg?v=4" alt="---" width="100%" />
+</div>
+
+### 🚀 FEATURED PRODUCTION ECOSYSTEMS & CLIENT PROJECTS
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4><a href="https://clientpilotai.rehanhussain.dev/">🎯 ClientPilot AI</a></h4>
+      <p><b>AI-Assisted Lead Acquisition Platform:</b> Discovers business leads via Overpass API, scores them with OpenAI, and delivers automated outreach with real-time WebSocket telemetry.</p>
+      <p><code>Node.js</code> <code>TypeScript</code> <code>PostgreSQL</code> <code>OpenAI API</code> <code>WebSockets</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h4><a href="https://bitedash.rehanhussain.dev/">🍔 BiteDash</a></h4>
+      <p><b>Multi-Tenant Food Delivery Platform:</b> End-to-end delivery ecosystem with customer, restaurant, rider, and admin portals featuring live Socket.io order tracking and Stripe payments.</p>
+      <p><code>React</code> <code>Node.js</code> <code>PostgreSQL</code> <code>Prisma</code> <code>Redis</code> <code>Socket.io</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4><a href="https://pulsehr.rehanhussain.dev/">💼 PulseHR</a></h4>
+      <p><b>Enterprise HR Management System:</b> Production-ready HR suite featuring automated employee onboarding, payroll, attendance, real-time WebSocket updates, and Supabase file storage.</p>
+      <p><code>React 19</code> <code>TypeScript</code> <code>Node.js</code> <code>PostgreSQL</code> <code>Supabase Storage</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🚚 TranspoPilot AI</h4>
+      <p><b>Fleet Visibility & Logistics Platform:</b> Trucking platform featuring AI-driven route optimization, smart fuel finding, real-time GPS fleet tracking, ELD logging, and HOS compliance.</p>
+      <p><code>React</code> <code>TypeScript</code> <code>Node.js</code> <code>PostgreSQL</code> <code>OpenAI API</code> <code>WebSocket</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🤖 PhoneBuzz AI Agent & CRM</h4>
+      <p><b>n8n Automation + WhatsApp CRM:</b> 100+ node autonomous pipeline handling customer queries across WhatsApp and email, paired with an inventory and real-time revenue analytics CRM.</p>
+      <p><code>n8n</code> <code>OpenAI API</code> <code>WhatsApp API</code> <code>React</code> <code>Node.js</code> <code>PostgreSQL</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🛍️ BookHaven & Shopify Solutions</h4>
+      <p><b>Shopify OS 2.0 & E-Commerce Storefront:</b> Bespoke Shopify storefront with Liquid templates, structured metafields, custom filters, and AJAX cart drawer.</p>
+      <p><code>Shopify Liquid</code> <code>OS 2.0</code> <code>Cart API</code> <code>Metafields</code> <code>JavaScript</code></p>
+    </td>
+  </tr>
+</table>
+
+<div align="center">
+  <br/>
+  <a href="https://clientpilotai.rehanhussain.dev/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rehancodeofficial/rehancodeofficial/main/clientpilotai-card.svg" width="49%" />
+  </a>
+  <a href="https://bitedash.rehanhussain.dev/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rehancodeofficial/rehancodeofficial/main/bitedash-card.svg" width="49%" />
+  </a>
+</div>
+
+<div align="center">
+  <br/>
+  <img src="https://raw.githubusercontent.com/rehancodeofficial/rehancodeofficial/main/divider.svg?v=4" alt="---" width="100%" />
+</div>
+
+### 📊 SYSTEM TELEMETRY (GitHub Pulse)
+
+<div align="center">
+  <!-- GitHub Stats (Adapts automatically between Dark and Light mode) -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.shion.dev/api?username=rehancodeofficial&show_icons=true&bg_color=0B0B0D&title_color=E2652C&text_color=CFCBC6&icon_color=F2814F&border_color=23232A&border_radius=8">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.shion.dev/api?username=rehancodeofficial&show_icons=true&bg_color=FFFFFF&title_color=E2652C&text_color=44403C&icon_color=EA580C&border_color=E6E2DC&border_radius=8">
+    <img src="https://github-readme-stats.shion.dev/api?username=rehancodeofficial&show_icons=true&bg_color=0B0B0D&title_color=E2652C&text_color=CFCBC6&icon_color=F2814F&border_color=23232A&border_radius=8" height="195" />
+  </picture>
+</div>
+
+<div align="center">
+  <br/>
+  <img src="https://raw.githubusercontent.com/rehancodeofficial/rehancodeofficial/main/divider.svg?v=4" alt="---" width="100%" />
+</div>
+
+### 🐍 CONTRIBUTION SNAKE (Ember Orange Palette)
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rehancodeofficial/rehancodeofficial/main/github-contribution-grid-snake-dark.svg?v=orange9">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rehancodeofficial/rehancodeofficial/main/github-contribution-grid-snake.svg?v=orange9">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/rehancodeofficial/rehancodeofficial/main/github-contribution-grid-snake-dark.svg?v=orange9" width="100%">
+  </picture>
+</div>
+
+<div align="center">
+  <br/>
+  <img src="https://raw.githubusercontent.com/rehancodeofficial/rehancodeofficial/main/divider.svg?v=4" alt="---" width="100%" />
+</div>
+
+### 🏆 GITHUB MEDALS
+
+<div align="center">
+  <br/>
+  <table style="border: none;">
+    <tr style="border: none;">
+      <td align="center" style="border: none;">
+        <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="120" />
+        <br/>
+        <b>PULL SHARK</b>
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="120" />
+        <br/>
+        <b>QUICKDRAW</b>
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="120" />
+        <br/>
+        <b>YOLO</b>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div align="center">
+  <br/>
+  <img src="https://raw.githubusercontent.com/rehancodeofficial/rehancodeofficial/main/divider.svg?v=4" alt="---" width="100%" />
+</div>
+
+### 📈 PORTFOLIO & OPERATIONAL METRICS
+
+<div align="center">
+  <table style="border-collapse: collapse; width: 65%;">
+    <tr>
+      <td style="padding: 12px;"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" alt="Commits" width="25" /> <b>Total GitHub Commits:</b></td>
+      <td style="padding: 12px;" align="right"><code>585+</code> COMMITS</td>
+    </tr>
+    <tr>
+      <td style="padding: 12px;"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" alt="Experience" width="25" /> <b>Professional Experience:</b></td>
+      <td style="padding: 12px;" align="right"><code>3+</code> YEARS</td>
+    </tr>
+    <tr>
+      <td style="padding: 12px;"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20with%20Meridians.png" alt="Clients" width="25" /> <b>Clients Delivered:</b></td>
+      <td style="padding: 12px;" align="right"><code>9 Total</code> (4 Intl / 5 Local)</td>
+    </tr>
+    <tr>
+      <td style="padding: 12px;"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer.png" alt="Hammer" width="25" /> <b>Systems & Builds:</b></td>
+      <td style="padding: 12px;" align="right"><code>20+</code> ECOSYSTEMS</td>
+    </tr>
+    <tr>
+      <td style="padding: 12px;"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Hot%20Beverage.png" alt="Coffee" width="25" /> <b>Caffeine Fuel:</b></td>
+      <td style="padding: 12px;" align="right"><code>1,337+</code> CUPS</td>
+    </tr>
+    <tr>
+      <td style="padding: 12px;"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Microbe.png" alt="Microbe" width="25" /> <b>Bugs Squashed:</b></td>
+      <td style="padding: 12px;" align="right"><code>COUNTLESS</code></td>
+    </tr>
+    <tr>
+      <td style="padding: 12px;"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="25" /> <b>Engineering Focus:</b></td>
+      <td style="padding: 12px;" align="right"><code>FULL-STACK + AUTOMATION</code></td>
+    </tr>
+    <tr>
+      <td style="padding: 12px;"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" /> <b>Daily Flow State:</b></td>
+      <td style="padding: 12px;" align="right"><code>~ 12 HOURS</code></td>
+    </tr>
+  </table>
+</div>
+
+<div align="center">
+  <br/>
+  <img src="https://raw.githubusercontent.com/rehancodeofficial/rehancodeofficial/main/divider.svg?v=4" alt="---" width="100%" />
+</div>
+
+### ⚡ WHAT I BUILD & DELIVER
+
+<div align="center">
+  <table style="border: none;">
+    <tr style="border: none;">
+      <td style="border: none;"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" alt="Automation" width="25" align="center" /> <b>n8n Autonomous Workflows & AI Agents (LLM integrations, messaging triage)</b></td>
+    </tr>
+    <tr style="border: none;">
+      <td style="border: none;"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="25" align="center" /> <b>Scalable Web Applications (Node.js & TypeScript full-stack core)</b></td>
+    </tr>
+    <tr style="border: none;">
+      <td style="border: none;"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" align="center" /> <b>Executive Dashboards & Portals (Real-time telemetry, WebSockets, clean metrics)</b></td>
+    </tr>
+    <tr style="border: none;">
+      <td style="border: none;"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Shopping%20Cart.png" alt="Shopping" width="25" align="center" /> <b>Custom Shopify OS 2.0 Themes & WordPress/WooCommerce Solutions</b></td>
+    </tr>
+    <tr style="border: none;">
+      <td style="border: none;"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer.png" alt="Debug" width="25" align="center" /> <b>Deep Codebase Diagnostics, Bug Fixing & Performance Tuning</b></td>
+    </tr>
+  </table>
+</div>
+
+<div align="center">
+  <br/>
+  <img src="https://raw.githubusercontent.com/rehancodeofficial/rehancodeofficial/main/divider.svg?v=4" alt="---" width="100%" />
+</div>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=20&pause=2000&color=E2652C;C2410C;9A3412&center=true&vCenter=true&width=800&lines=%22Code+is+the+raw+iron+we+forge.%22;%22Architecting+reality,+one+line+at+a+time.%22;%22Execution+is+everything.%22">
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=20&pause=2000&color=E2652C;C2410C;9A3412&center=true&vCenter=true&width=800&lines=%22Code+is+the+raw+iron+we+forge.%22;%22Architecting+reality,+one+line+at+a+time.%22;%22Execution+is+everything.%22">
+    <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=20&pause=2000&color=E2652C;C2410C;9A3412&center=true&vCenter=true&width=800&lines=%22Code+is+the+raw+iron+we+forge.%22;%22Architecting+reality,+one+line+at+a+time.%22;%22Execution+is+everything.%22" alt="Quote SVG" />
+  </picture>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=rehancodeofficial&color=E2652C&style=for-the-badge&label=SYSTEM+INSPECTIONS" alt="Profile Views" />
+</div>
+
+<div align="center">
+  <br />
+  <i>Executing Vision with Precision.</i>
+  <br />
+  <b>Looking to collaborate or build scalable software? Let's connect!</b>
+  <br />
+  <br />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="80" />
+</div>
