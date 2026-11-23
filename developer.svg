@@ -1,0 +1,97 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="340" height="300" viewBox="0 0 340 300" fill="none">
+  <defs>
+    <style>
+      :root {
+        --card-bg: #FFFFFF;
+        --card-border: #E6E2DC;
+        --avatar-bg: #F4F2EE;
+        --code-bg: #FBF9F6;
+        --text-sub: #7A736C;
+        --glow: #E2652C15;
+      }
+      @media (prefers-color-scheme: dark) {
+        :root {
+          --card-bg: #17171B;
+          --card-border: #23232A;
+          --avatar-bg: #0B0B0D;
+          --code-bg: #0E0E11;
+          --text-sub: #8B8884;
+          --glow: #E2652C25;
+        }
+      }
+    </style>
+    <linearGradient id="avatarGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#E2652C" />
+      <stop offset="100%" stop-color="#F2814F" />
+    </linearGradient>
+    <linearGradient id="laptopGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#2D2D35" />
+      <stop offset="100%" stop-color="#1A1A20" />
+    </linearGradient>
+    <filter id="softShadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="8" stdDeviation="12" flood-color="#000000" flood-opacity="0.25" />
+    </filter>
+  </defs>
+
+  <!-- Container Box -->
+  <rect x="10" y="10" width="320" height="280" rx="16" fill="var(--card-bg)" stroke="var(--card-border)" stroke-width="2" filter="url(#softShadow)" />
+
+  <!-- Ambient Glow -->
+  <circle cx="170" cy="140" r="100" fill="var(--glow)" />
+
+  <!-- Avatar Base / Body Silhouette -->
+  <!-- Head & Hair -->
+  <circle cx="170" cy="85" r="32" fill="#E2652C" opacity="0.15" />
+  <circle cx="170" cy="85" r="28" fill="#D49A7A" />
+  <!-- Stylish Modern Hair -->
+  <path d="M 142 80 C 142 55, 198 55, 198 80 C 194 65, 180 62, 170 62 C 158 62, 146 68, 142 80 Z" fill="#2B1B17" />
+
+  <!-- Glasses -->
+  <rect x="150" y="80" width="16" height="12" rx="3" fill="none" stroke="#2B1B17" stroke-width="2" />
+  <rect x="174" y="80" width="16" height="12" rx="3" fill="none" stroke="#2B1B17" stroke-width="2" />
+  <line x1="166" y1="85" x2="174" y2="85" stroke="#2B1B17" stroke-width="2" />
+
+  <!-- Smile -->
+  <path d="M 163 97 Q 170 102 177 97" fill="none" stroke="#2B1B17" stroke-width="1.8" stroke-linecap="round" />
+
+  <!-- Hoodie / Shoulders -->
+  <path d="M 115 175 C 115 130, 145 120, 170 120 C 195 120, 225 130, 225 175 Z" fill="url(#avatarGrad)" />
+  <!-- Inner Collar -->
+  <path d="M 155 122 Q 170 135 185 122" fill="#0B0B0D" opacity="0.25" />
+
+  <!-- MacBook / Laptop Screen -->
+  <rect x="115" y="160" width="110" height="70" rx="6" fill="url(#laptopGrad)" stroke="#3E3E48" stroke-width="1.5" />
+  <!-- Apple-like Logo / Code Icon on Laptop Lid -->
+  <g transform="translate(160, 185)">
+    <polygon points="4,2 16,10 4,18" fill="#E2652C">
+      <animate attributeName="opacity" values="0.7;1;0.7" dur="2s" repeatCount="indefinite" />
+    </polygon>
+    <line x1="13" y1="21" x2="19" y2="21" stroke="#F5F3F0" stroke-width="2" stroke-linecap="round" />
+  </g>
+
+  <!-- Laptop Base & Keyboard Glow -->
+  <path d="M 95 230 L 245 230 L 235 240 L 105 240 Z" fill="#3E3E48" />
+  <rect x="105" y="230" width="130" height="2" fill="#E2652C" opacity="0.8" />
+
+  <!-- Floating Code Pills -->
+  <!-- Left Pill (Java) -->
+  <g>
+    <rect x="25" y="65" width="85" height="28" rx="14" fill="var(--code-bg)" stroke="#E2652C" stroke-width="1.5" />
+    <text x="67" y="83" font-family="'Space Grotesk', monospace" font-size="12" font-weight="700" fill="#E2652C" text-anchor="middle">&lt;Java /&gt;</text>
+    <animateTransform attributeName="transform" type="translate" values="0,0; 0,-4; 0,0" dur="3s" repeatCount="indefinite" />
+  </g>
+
+  <!-- Right Pill (React) -->
+  <g>
+    <rect x="230" y="65" width="85" height="28" rx="14" fill="var(--code-bg)" stroke="#F2814F" stroke-width="1.5" />
+    <text x="272" y="83" font-family="'Space Grotesk', monospace" font-size="12" font-weight="700" fill="#F2814F" text-anchor="middle">&lt;React /&gt;</text>
+    <animateTransform attributeName="transform" type="translate" values="0,0; 0,4; 0,0" dur="3.5s" repeatCount="indefinite" />
+  </g>
+
+  <!-- Bottom Badge: Flow State -->
+  <rect x="95" y="255" width="150" height="24" rx="12" fill="#E2652C15" stroke="#E2652C" stroke-width="1" />
+  <circle cx="110" cy="267" r="4" fill="#25D366">
+    <animate attributeName="opacity" values="0.4;1;0.4" dur="1.5s" repeatCount="indefinite" />
+  </circle>
+  <text x="175" y="271" font-family="'Space Grotesk', sans-serif" font-size="11" font-weight="700" fill="#E2652C" text-anchor="middle">ACTIVE IN FLOW</text>
+</svg>
