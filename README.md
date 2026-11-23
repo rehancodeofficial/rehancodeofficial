@@ -1,22 +1,5 @@
 <div align="center">
 
-  <!-- COMMAND CENTER HEADER -->
-  <br/>
-  <a href="https://rehanhussain.dev" target="_blank">
-    <img src="https://raw.githubusercontent.com/rehancodeofficial/rehancodeofficial/main/header.svg" alt="Muhammad Rehan Hussain Header" width="100%" />
-  </a>
-
-  <br/>
-
-  <!-- DYNAMIC TYPING ROLE SWITCHER (Portfolio Aligned) -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=22&pause=1000&color=E2652C;F2814F;F5F3F0&center=true&vCenter=true&width=800&lines=Full+Stack+Developer+%26+Software+Engineer;Node.js+%7C+TypeScript+%7C+React+%7C+Next.js;n8n+Automation+%26+Autonomous+AI+Agents;Custom+Web+Apps,+Dashboards+%26+E-Commerce.">
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=22&pause=1000&color=E2652C;EA580C;14110F&center=true&vCenter=true&width=800&lines=Full+Stack+Developer+%26+Software+Engineer;Node.js+%7C+TypeScript+%7C+React+%7C+Next.js;n8n+Automation+%26+Autonomous+AI+Agents;Custom+Web+Apps,+Dashboards+%26+E-Commerce.">
-    <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=22&pause=1000&color=E2652C;F2814F;F5F3F0&center=true&vCenter=true&width=800&lines=Full+Stack+Developer+%26+Software+Engineer;Node.js+%7C+TypeScript+%7C+React+%7C+Next.js;n8n+Automation+%26+Autonomous+AI+Agents;Custom+Web+Apps,+Dashboards+%26+E-Commerce." alt="Typing SVG" />
-  </picture>
-
-</div>
-
 <div align="center">
   <a href="https://rehanhussain.dev" target="_blank">
     <img src="https://img.shields.io/badge/PORTFOLIO-rehanhussain.dev-E2652C?style=for-the-badge&logo=globe&logoColor=white" alt="Portfolio" />
@@ -44,6 +27,7 @@
 </div>
 
 <!-- Bio Section -->
+
 <div align="center">
   <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20with%20Meridians.png" alt="Globe" width="35" align="center" /> ABOUT & ENGINEERING VISION</h2>
 </div>
@@ -62,14 +46,14 @@
       </ul>
     </td>
     <td width="40%" align="center" style="border: none; vertical-align: middle;">
-      <img src="https://raw.githubusercontent.com/rehancodeofficial/rehancodeofficial/main/developer.svg" width="310" alt="Developer Coding in Flow" />
+      <img src="https://raw.githubusercontent.com/rehancodeofficial/rehancodeofficial/main/avatar.jpg" width="310" style="border-radius: 16px; border: 2px solid #E2652C;" alt="Muhammad Rehan Hussain" />
     </td>
   </tr>
 </table>
 
 ---
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" alt="Briefcase" width="35" align="center" /> PROFESSIONAL EXPERIENCE
+###  PROFESSIONAL EXPERIENCE
 
 ```text
 ┌── [Jul 2026 – Present] Co-Founder & Full Stack Developer @ Code Vertex Solutions
@@ -91,7 +75,7 @@
 
 ---
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Arsenal" width="35" align="center" /> CORE ENGINEERING ARSENAL
+###  CORE ENGINEERING ARSENAL
 
 <div align="center">
   <p><b>Frontend & User Interfaces</b></p>
@@ -101,39 +85,12 @@
     <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,redux,vite&theme=dark" alt="Frontend Stacks" />
   </picture>
   <br><br>
-  
-  <p><b>Backend, Databases & Realtime Systems</b></p>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb,redis,prisma,supabase,firebase&theme=dark">
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb,redis,prisma,supabase,firebase&theme=light">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb,redis,prisma,supabase,firebase&theme=dark" alt="Backend & Databases" />
-  </picture>
-  <br><br>
-  
-  <p><b>CMS, E-Commerce & Workflow Automation</b></p>
-  <div>
-    <img src="https://img.shields.io/badge/Shopify-95BF47?style=for-the-badge&logo=shopify&logoColor=white" alt="Shopify" />
-    <img src="https://img.shields.io/badge/Liquid-000000?style=for-the-badge&logo=shopify&logoColor=95BF47" alt="Liquid" />
-    <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
-    <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
-    <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress" />
-    <img src="https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white" alt="WooCommerce" />
-  </div>
-  <br>
-
-  <p><b>DevOps, Cloud & Tooling</b></p>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=docker,git,github,postman,vercel,npm&theme=dark">
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=docker,git,github,postman,vercel,npm&theme=light">
-    <img src="https://skillicons.dev/icons?i=docker,git,github,postman,vercel,npm&theme=dark" alt="Tools & Infra" />
-  </picture>
-</div>
 
 <br/>
 
 ---
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Building%20Construction.png" alt="Building Construction" width="35" align="center" /> FEATURED PRODUCTION ECOSYSTEMS & CLIENT PROJECTS
+###  FEATURED PRODUCTION ECOSYSTEMS & CLIENT PROJECTS
 
 <table>
   <tr>
@@ -188,7 +145,7 @@
 
 ---
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="35" align="center" /> SYSTEM TELEMETRY (GitHub Pulse)
+###  SYSTEM TELEMETRY (GitHub Pulse)
 
 <div align="center">
   <!-- GitHub Stats (Adapts automatically between Dark and Light mode) -->
@@ -198,19 +155,11 @@
     <img src="https://github-readme-stats.shion.dev/api?username=rehancodeofficial&show_icons=true&bg_color=0B0B0D&title_color=E2652C&text_color=CFCBC6&icon_color=F2814F&border_color=23232A&border_radius=8" height="195" />
   </picture>
 
-  <!-- Top Languages (Adapts automatically between Dark and Light mode) -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.shion.dev/api/top-langs/?username=rehancodeofficial&layout=compact&bg_color=0B0B0D&title_color=E2652C&text_color=CFCBC6&border_color=23232A&border_radius=8">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.shion.dev/api/top-langs/?username=rehancodeofficial&layout=compact&bg_color=FFFFFF&title_color=E2652C&text_color=44403C&border_color=E6E2DC&border_radius=8">
-    <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=rehancodeofficial&layout=compact&bg_color=0B0B0D&title_color=E2652C&text_color=CFCBC6&border_color=23232A&border_radius=8" height="195" />
-  </picture>
-</div>
-
 <br/>
 
 ---
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" alt="Snake" width="35" align="center" /> CONTRIBUTION SNAKE (Ember Orange Palette)
+###  CONTRIBUTION SNAKE (Ember Orange Palette)
 
 <div align="center">
   <picture>
@@ -222,7 +171,7 @@
 
 ---
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gem%20Stone.png" alt="Gem" width="35" align="center" /> GITHUB MEDALS
+###  GITHUB MEDALS
 
 <div align="center">
   <br/>
@@ -249,7 +198,7 @@
 
 ---
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Flexed%20Biceps.png" alt="Biceps" width="35" align="center" /> PORTFOLIO & OPERATIONAL METRICS
+###  PORTFOLIO & OPERATIONAL METRICS
 
 <div align="center">
   <table style="border-collapse: collapse; width: 65%;">
@@ -290,7 +239,7 @@
 
 ---
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" alt="Alien Monster" width="35" align="center" /> WHAT I BUILD & DELIVER
+###  WHAT I BUILD & DELIVER
 
 <div align="center">
   <table style="border: none;">
